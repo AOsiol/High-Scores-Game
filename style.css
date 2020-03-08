@@ -1,7 +1,13 @@
-.scores {
-    background-color: #0825;
+.scoreBtn {
+    background-color: rgba(45, 155, 11, 0.24);
 }
 
-.start {
-    background-color: #0825;
+.startBtn {
+    background-color: rgba(45, 155, 11, 0.24);
+}
+
+.questionSpace {
+    display: flex;
+    justify-content: space-evenly;
+    width: 200px;
 }
